@@ -1,4 +1,4 @@
-# Qualification Reading list(1)
+# Reading list
 
 ## Adversarial Attack Algorithm:
 ###	White-box attack:
